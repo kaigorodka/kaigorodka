@@ -1,4 +1,4 @@
-<h1 align="center">Приветствую, меня зовут Ваня! 👋</h1>
+<h1 align="center">Приветствую! Меня зовут Иван! 👋</h1>
 
 - 🔭 Сейчас я работаю над Backend частью приложения [Mesto](https://kaigorodka.github.io/mesto/) 
 
